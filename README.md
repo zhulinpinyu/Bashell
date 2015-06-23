@@ -1,4 +1,4 @@
-Guide For Mac OSX Docker
+Usage For Mac OSX Docker
 ===
 
 set setup.sh as executable file
@@ -33,4 +33,4 @@ release new version app when app image is built done
 
     ./setup.sh release
 
-Tips: For linux add sudo previous docker
+Tips: For `linux` add sudo previous docker in setup.sh file
